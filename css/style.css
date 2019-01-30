@@ -1,0 +1,16 @@
+h2{
+	font-size:20px;
+	color:red;
+	text-align:center;
+}
+.custom_border{
+	border:1px solid;
+	background-color: green;
+
+
+}
+.custom_bg{
+	background-color: pink;
+	min-height: 80px;
+	margin-bottom:5px;
+}
